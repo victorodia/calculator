@@ -4,3 +4,4 @@ Werkzeug==0.13
 # deploy
 gunicorn==19.5.0
 gevent
+numpy

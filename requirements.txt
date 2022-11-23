@@ -5,4 +5,4 @@ gunicorn==19.5.0
 gevent
 numpy
 scipy
-python-opencv
+opencv-python

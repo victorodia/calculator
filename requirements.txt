@@ -4,5 +4,4 @@ Werkzeug
 gunicorn
 gevent
 numpy
-scipy
 opencv-python

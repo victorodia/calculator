@@ -1,8 +1,8 @@
-Flask==0.12.2
-Jinja2==2.8
-Werkzeug==0.13
-gunicorn==19.5.0
+Flask
+Jinja2
+Werkzeug
+gunicorn
 gevent
 numpy
 scipy
-opencv-python==4.2.0.34
+opencv-python
